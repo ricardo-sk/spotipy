@@ -19,7 +19,7 @@ username = 'ricardo.sk'#st.text_input(label='username')
 client_id ='c74692207a81490aad99dbb253113362'
 
 client_secret = '76f566d072a14f2385562de2069fcd50'
-redirect_uri = 'http://localhost:7777/callback'
+redirect_uri = 'https://www.google.com/'
 scope = 'user-top-read'
 
 token = util.prompt_for_user_token(username=username, 
